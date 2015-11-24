@@ -26,8 +26,11 @@ Keep it simple. We are not looking for a finished product but want to learn a li
 ##Submissions
 
 Detach and send us the database.
+
 Send us any reports or other visualizations that you think would be helpful.
+
 Feel free to send us any documentation or comments on design, set-up, or your approach to the problem.
+
 Have fun!
 
 **Please complete your submission by Monday, December 7th, at 9am.** Early submissions are welcome!
