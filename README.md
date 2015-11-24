@@ -18,8 +18,7 @@ Once we determine meaningful metrics/visualizations, we will need to monitor our
 
 Keep it simple. We are not looking for a finished product but want to learn a little more about your skills and how you approach problems. Think of your delivery as something “mininmal” that is on the road to awesome. You may submit results via GitHub, Google Drive, DropBox, (or any similar file sharing service) or any way that you prefer.
 
-* Move the data into a MSSQL Server Database.
-* You can download SQL Server Express from Microsoft for free. If you’d rather approach this differently, let us know why.
+* Move the data into a MSSQL Server Database. You can download SQL Server Express from Microsoft for free. If you’d rather approach this differently, let us know why.
 * Use any reporting tool you like or any other visualization tools/techniques.
 * You may use, borrow anything you want but the work should be done by you.
 * You may email us with any questions. sbarnwell@ashevillenc.gov or use this repo’s issues.
